@@ -1,0 +1,11 @@
+compile
+-------
+javac -d . *.java
+
+run server
+----------
+java chat.ServerUI
+
+run client
+-----------
+java chat.ClientUI
